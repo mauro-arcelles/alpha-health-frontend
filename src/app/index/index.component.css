@@ -1,0 +1,19 @@
+.carousel-item > img {
+  width: 100%;
+  height: 400px;
+}
+
+.carousel {
+  height: 415px
+}
+
+.carousel-container {
+  height: calc(100vh - 440px);
+}
+
+.noticia-tag{
+  background-color: #075080de;
+  color: white;
+  padding: .45em .5em .4em;
+  font-size: .65em;
+}
