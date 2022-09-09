@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { ConsultaClienteComponent } from './components/consulta-cliente/consulta-cliente.component';
 import { IndexComponent } from './index/index.component';
 import { MenuComponent } from './components/menu/menu.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { MenuComponent } from './components/menu/menu.component';
     ConsultaClienteComponent,
     IndexComponent,
     MenuComponent,
+    FooterComponent,
 
   ],
   imports: [
