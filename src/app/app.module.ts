@@ -9,6 +9,10 @@ import { ConsultaClienteComponent } from './components/consulta-cliente/consulta
 import { IndexComponent } from './index/index.component';
 import { MenuComponent } from './components/menu/menu.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { InformacionComponent } from './components/informacion/informacion.component';
+import { UltimasNoticiasComponent } from './components/ultimas-noticias/ultimas-noticias.component';
+import { CategoriasComponent } from './components/categorias/categorias.component';
+import { PreMenuComponent } from './components/pre-menu/pre-menu.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +21,10 @@ import { FooterComponent } from './components/footer/footer.component';
     IndexComponent,
     MenuComponent,
     FooterComponent,
+    InformacionComponent,
+    UltimasNoticiasComponent,
+    CategoriasComponent,
+    PreMenuComponent,
 
   ],
   imports: [

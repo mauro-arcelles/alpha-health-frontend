@@ -1,0 +1,10 @@
+.custom-indicator {
+  background-color: black!important;
+  height: 0px!important;
+  background-clip: inherit!important;
+  border-radius: 50%!important;
+  width: 6px!important;
+  border-bottom: none!important;
+  border-top: 7px solid transparent !important;
+  margin-right: 10px!important;
+}

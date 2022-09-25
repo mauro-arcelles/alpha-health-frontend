@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class IndexComponent implements OnInit {
 
+  chatboxView = false
+
   constructor() { }
 
   ngOnInit(): void {

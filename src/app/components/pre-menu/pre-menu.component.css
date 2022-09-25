@@ -1,0 +1,34 @@
+.content-image {
+  width: 100%;
+}
+
+.content {
+  position: relative;
+  width: 90%;
+  max-width: 400px;
+  margin: auto;
+  padding: 8px;
+  transition: 0.2s;
+}
+
+img {
+  cursor: pointer;
+}
+
+.content:hover {
+  transform: scale(0.9);
+}
+
+.content-image>img {
+  width: 80px;
+  height: 30px;
+}
+
+.main-logo {
+  width: 100%;
+  height: 80%;
+}
+
+.main-logo-container {
+  width: 50%;
+}

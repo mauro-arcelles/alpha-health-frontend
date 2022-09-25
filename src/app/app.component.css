@@ -1,0 +1,85 @@
+.facebook {
+  background-color: #3b5998;
+  color: white;
+  transition: transform 0.2s;
+}
+
+.facebook:hover {
+  transform: scale(1.15);
+}
+
+.twitter {
+  background-color: #55acee;
+  color: white;
+  transition: transform 0.5s;
+}
+
+.twitter:hover {
+  transform: scale(1.15);
+}
+
+.instagram {
+  background-color: #e4405f;
+  color: white;
+  transition: transform 0.2s;
+}
+
+.instagram:hover {
+  transform: scale(1.15);
+}
+
+.youtube {
+  background-color: #bb0000;
+  color: white;
+  transition: transform 0.2s;
+}
+
+.youtube:hover {
+  transform: scale(1.15);
+}
+
+.linkedin {
+  background-color: #007bb5;
+  color: white;
+  transition: transform 0.2s;
+}
+
+.linkedin:hover {
+  transform: scale(1.15);
+}
+
+.flickr {
+  background-color: #1871dd;
+  color: white;
+  transition: transform 0.2s;
+}
+
+.flickr:hover {
+  transform: scale(1.15);
+}
+
+.tiktok {
+  background-color: #000000;
+  color: white;
+  transition: transform 0.2s;
+}
+
+.tiktok:hover {
+  transform: scale(1.15);
+}
+
+.container-red {
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  cursor: pointer;
+  width: 45px;
+  height: 45px;
+}
+
+i {
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+}
