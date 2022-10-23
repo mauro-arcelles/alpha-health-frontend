@@ -13,6 +13,7 @@ import { InformacionComponent } from './components/informacion/informacion.compo
 import { UltimasNoticiasComponent } from './components/ultimas-noticias/ultimas-noticias.component';
 import { CategoriasComponent } from './components/categorias/categorias.component';
 import { PreMenuComponent } from './components/pre-menu/pre-menu.component';
+import { ConocenosComponent } from './conocenos/conocenos.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { PreMenuComponent } from './components/pre-menu/pre-menu.component';
     UltimasNoticiasComponent,
     CategoriasComponent,
     PreMenuComponent,
+    ConocenosComponent,
 
   ],
   imports: [
